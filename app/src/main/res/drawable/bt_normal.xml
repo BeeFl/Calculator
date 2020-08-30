@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shape xmlns:android="http://schemas.android.com/apk/res/android"
+    android:shape="rectangle" >
+    <!-- 默认背景颜色 -->
+    <solid android:color="#D6D7D7" />
+    <size android:height="59dp"
+        android:width="160dp"/>
+    <padding android:top="3dp"/>
+<!--    <stroke-->
+<!--        android:width="0.5dp"-->
+<!--        android:color="#BD9E00" />-->
+    <corners android:radius="3dp" />
+</shape>

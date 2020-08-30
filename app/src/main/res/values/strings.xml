@@ -1,0 +1,42 @@
+<resources>
+    <string name="app_name">计算器</string>
+    <string name="left_bracket">(</string>
+    <string name="right_bracket">)</string>
+    <string name="clear">C</string>
+    <string name="delete_last">⬅</string>
+    <string name="zero">0</string>
+    <string name="one">1</string>
+    <string name="two">2</string>
+    <string name="three">3</string>
+    <string name="four">4</string>
+    <string name="five">5</string>
+    <string name="six">6</string>
+    <string name="seven">7</string>
+    <string name="eight">8</string>
+    <string name="nine">9</string>
+    <string name="plus">+</string>
+    <string name="minus">-</string>
+    <string name="multi">*</string>
+    <string name="div">/</string>
+    <string name="point">.</string>
+    <string name="equal">=</string>
+    <string name="shift">shift</string>
+    <string name="sqrt">sqrt</string>
+    <string name="tan">tan</string>
+    <string name="sin">sin</string>
+    <string name="cos">cos</string>
+    <string name="e">e</string>
+    <string name="pi">π</string>
+    <string name="pi2">2π  </string>
+    <string name="a360">360°</string>
+    <string name="x2">x²</string>
+    <string name="x3">x³</string>
+    <string name="xy">x^y</string>
+    <string name="atan">atan</string>
+    <string name="asin">asin</string>
+    <string name="acos">acos</string>
+    <string name="loge">loge</string>
+    <string name="log10">log10</string>
+<!--    <string name="ceil">ceil</string>-->
+<!--    <string name="floor">floor</string>-->
+</resources>
